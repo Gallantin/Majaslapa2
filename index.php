@@ -213,8 +213,10 @@
 			<input type="text" class ="right"  id="surname" name="surname"><br><br>
 			<label for="email">Email:</label>
 			<input type="email" class ="right"  id="email" name="email"><br><br>
-			<label for="Password">Password:</label>
-			<input type="password" class ="right" id="Password" name="Password"><br><br>
+			<label for="Phone">Phone Num:</label>
+			<input type="number" class ="right" id="Phone" name="Phone"><br><br>
+			<label for="Text">Text:</label>
+			<input type="text" class ="right" id="Text" name="Text"><br><br>
 			<input type="submit" value="Submit">
 		  </form>
 		<p>At our core is a collection of designs and food development solutions that represent everything your kitchen needs.</p>
